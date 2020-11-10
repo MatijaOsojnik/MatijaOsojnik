@@ -1,5 +1,17 @@
 # Hey there! I'm Matija <img src="https://github.com/MatijaOsojnik/MatijaOsojnik/blob/master/wave.gif?raw=true" width="30px">
 
+<a href="https://www.linkedin.com/in/matija-osojnik-6b0900193/">
+  <img align="left" alt="Matija Osojnik | LinkedIn" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
+<a href="https://github.com/MatijaOsojnik">
+  <img align="left" alt="Matija Osojnik | Github" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/matijaosojnik/">
+  <img align="left" alt="Matija Osojnik | Instagram" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+
+[![LinkedIn][1.1]][1]  [![Github][2.1]][2]  [![Instagram][3.1]][3]
+
 My name's Matija Osojnik and I'm a Web Developer/Designer. I'm from Slovenia, living in Velenje and I'm currently working on a bunch of different projects.
 
 ## 💻 Technologies
@@ -41,16 +53,9 @@ My name's Matija Osojnik and I'm a Web Developer/Designer. I'm from Slovenia, li
 
 <!-- links to social media icons -->
 
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.1]: https://i.imgur.com/mnmmob0.png (instagram icon)
+[2.1]: https://i.imgur.com/KIMW5LI.png (github icon )
+[3.1]: https://i.imgur.com/4kuOppz.png (linkedin icon)
 
 <!-- Social links -->
 
