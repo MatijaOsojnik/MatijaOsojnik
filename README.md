@@ -8,7 +8,7 @@ My name's Matija Osojnik and I'm a Web Developer/Designer. I'm from Slovenia, li
 ![](https://img.shields.io/badge/Framework-VueJS-informational?style=flat&logo=Vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Design-Vuetify-informational?style=flat&logo=Vuetify&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Design-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Design-Tailwind CSS-informational?style=flat&logo=Tailwind CSS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Design-TailwindCSS-informational?style=flat&logo=TailwindCSS&logoColor=white&color=2bbc8a)
 
 
 # Stats
