@@ -1,16 +1,14 @@
 # Hey there! I'm Matija <img src="https://github.com/MatijaOsojnik/MatijaOsojnik/blob/master/wave.gif?raw=true" width="30px">
 
 <a href="https://www.linkedin.com/in/matija-osojnik-6b0900193/">
-  <img align="left" alt="Matija Osojnik | LinkedIn" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="left" alt="Matija Osojnik | LinkedIn" width="25px" src="https://github.com/MatijaOsojnik/MatijaOsojnik/blob/master/linkedin.svg" />
 </a>
 <a href="https://github.com/MatijaOsojnik">
-  <img align="left" alt="Matija Osojnik | Github" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="Matija Osojnik | Github" width="25px" src="https://github.com/MatijaOsojnik/MatijaOsojnik/blob/master/github.svg" />
 </a>
 <a href="https://www.instagram.com/matijaosojnik/">
-  <img align="left" alt="Matija Osojnik | Instagram" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="Matija Osojnik | Instagram" width="25px" src="https://github.com/MatijaOsojnik/MatijaOsojnik/blob/master/instagram.svg" />
 </a>
-
-[![LinkedIn][1.1]][1]  [![Github][2.1]][2]  [![Instagram][3.1]][3]
 
 My name's Matija Osojnik and I'm a Web Developer/Designer. I'm from Slovenia, living in Velenje and I'm currently working on a bunch of different projects.
 
