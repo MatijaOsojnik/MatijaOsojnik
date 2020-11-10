@@ -6,11 +6,12 @@ My name's Matija Osojnik and I'm a Web Developer/Designer. I'm from Slovenia, li
 
 ### Programming languages
 
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 
-## Frameworks
+### Frameworks
 
-![](https://img.shields.io/badge/Framework-VueJS-informational?style=flat&logo=Vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VueJS-informational?style=flat&logo=Vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 
 ### Design
 
