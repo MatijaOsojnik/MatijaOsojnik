@@ -37,11 +37,11 @@ My name's Matija Osojnik and I'm a Web Developer/Designer. I'm from Slovenia, li
 ## Stats
 
 <a href="https://github.com/MatijaOsojnik/MatijaOsojnik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatijaOsojnik&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Matija's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatijaOsojnik&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/MatijaOsojnik/MatijaOsojnik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatijaOsojnik&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatijaOsojnik&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Matija's GitHub Stats" />
 </a>
 
 <a href="https://github.com/MatijaOsojnik/medio">
