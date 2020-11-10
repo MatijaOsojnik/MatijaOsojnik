@@ -10,6 +10,10 @@
   <img align="left" alt="Matija Osojnik | Instagram" width="25px" src="https://github.com/MatijaOsojnik/MatijaOsojnik/blob/master/instagram.svg" />
 </a>
 
+<br />
+<br />
+
+
 My name's Matija Osojnik and I'm a Web Developer/Designer. I'm from Slovenia, living in Velenje and I'm currently working on a bunch of different projects.
 
 ## 💻 Technologies
@@ -48,19 +52,6 @@ My name's Matija Osojnik and I'm a Web Developer/Designer. I'm from Slovenia, li
 <a href="https://github.com/MatijaOsojnik/languor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatijaOsojnik&repo=languor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-
-<!-- links to social media icons -->
-
-[1.1]: https://i.imgur.com/mnmmob0.png (instagram icon)
-[2.1]: https://i.imgur.com/KIMW5LI.png (github icon )
-[3.1]: https://i.imgur.com/4kuOppz.png (linkedin icon)
-
-<!-- Social links -->
-
-[1]: https://github.com/MatijaOsojnik
-[2]: https://www.linkedin.com/in/matija-osojnik-6b0900193/
-[3]: https://www.instagram.com/matijaosojnik/
-
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
