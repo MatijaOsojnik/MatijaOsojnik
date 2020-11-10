@@ -2,16 +2,24 @@
 
 My name's Matija Osojnik and I'm a Web Developer/Designer. I'm from Slovenia, living in Velenje and I'm currently working on a bunch of different projects.
 
-# 💻 Technologies
+## 💻 Technologies
+
+### Programming languages
 
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+
+## Frameworks
+
 ![](https://img.shields.io/badge/Framework-VueJS-informational?style=flat&logo=Vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Design-Vuetify-informational?style=flat&logo=Vuetify&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Design-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Design-TailwindCSS-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=2bbc8a)
+
+### Design
+
+![](https://img.shields.io/badge/Vuetify-informational?style=flat&logo=Vuetify&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=2bbc8a)
 
 
-# Stats
+## Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MatijaOsojnik)](https://github.com/anuraghazra/github-readme-stats)
 
