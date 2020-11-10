@@ -12,7 +12,7 @@ My name's Matija Osojnik and I'm a Web Developer/Designer. I'm from Slovenia, li
 ![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Vuetify-informational?style=flat&logo=Vuetify&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=2bbc8a)
