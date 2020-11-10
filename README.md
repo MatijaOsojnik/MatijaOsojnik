@@ -4,7 +4,7 @@ My name's Matija Osojnik and I'm a Web Developer/Designer. I'm from Slovenia, li
 
 # 💻 Technologies
 
-![](https://img.shields.io/badge/<Code>-<Javascript>-informational?style=flat&logo=<JavaScript>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 
 <!-- [](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
