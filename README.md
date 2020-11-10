@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Matija <img src="https://raw.githubusercontent.com/MatijaOsojnik/MatijaOsojnik/master/wave.gif" width="30px">
 
 <!--
 **MatijaOsojnik/MatijaOsojnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
