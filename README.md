@@ -4,20 +4,18 @@ My name's Matija Osojnik and I'm a Web Developer/Designer. I'm from Slovenia, li
 
 ## 💻 Technologies
 
-### Programming languages
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-VueJS-informational?style=flat&logo=Vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a)
 
-### Frameworks
-
-![](https://img.shields.io/badge/VueJS-informational?style=flat&logo=Vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
-
-### Design
-
-![](https://img.shields.io/badge/Vuetify-informational?style=flat&logo=Vuetify&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Design-CSS-informational?style=flat&logo=CSS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Design-Vuetify-informational?style=flat&logo=Vuetify&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Design-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Design-TailwindCSS-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=2bbc8a)
 
 
 ## Stats
