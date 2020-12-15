@@ -1,7 +1,7 @@
 # Hey there! I'm Matija <img src="https://github.com/MatijaOsojnik/MatijaOsojnik/blob/master/wave.gif?raw=true" width="30px">
 
 <a href="https://www.linkedin.com/in/matija-osojnik-6b0900193/">
-  <img align="left" alt="Matija Osojnik | LinkedIn" width="25px" src="https://github.com/MatijaOsojnik/MatijaOsojnik/blob/master/linkedin.svg" />
+  <img align="left" alt="Matija Osojnik | LinkedIn" width="25px" color="white" src="https://github.com/MatijaOsojnik/MatijaOsojnik/blob/master/linkedin.svg" />
 </a>
 <a href="https://github.com/MatijaOsojnik">
   <img align="left" alt="Matija Osojnik | Github" width="25px" src="https://github.com/MatijaOsojnik/MatijaOsojnik/blob/master/github.svg" />
