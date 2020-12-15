@@ -1,13 +1,13 @@
 # Hey there! I'm Matija <img src="https://github.com/MatijaOsojnik/MatijaOsojnik/blob/master/wave.gif?raw=true" width="30px">
 
 <a href="https://www.linkedin.com/in/matija-osojnik-6b0900193/">
-  <img align="left" alt="Matija Osojnik | LinkedIn" width="25px" color="white" src="https://github.com/MatijaOsojnik/MatijaOsojnik/blob/master/linkedin.svg" />
+  <img align="left" alt="Matija Osojnik | LinkedIn" width="25px" style="filter: brightness(0) invert(1); border: 1px solid black" src="https://github.com/MatijaOsojnik/MatijaOsojnik/blob/master/linkedin.svg" />
 </a>
 <a href="https://github.com/MatijaOsojnik">
-  <img align="left" alt="Matija Osojnik | Github" width="25px" src="https://github.com/MatijaOsojnik/MatijaOsojnik/blob/master/github.svg" />
+  <img align="left" alt="Matija Osojnik | Github" width="25px" style="filter: brightness(0) invert(1); border: 1px solid black" src="https://github.com/MatijaOsojnik/MatijaOsojnik/blob/master/github.svg" />
 </a>
 <a href="https://www.instagram.com/matijaosojnik/">
-  <img align="left" alt="Matija Osojnik | Instagram" width="25px" src="https://github.com/MatijaOsojnik/MatijaOsojnik/blob/master/instagram.svg" />
+  <img align="left" alt="Matija Osojnik | Instagram" width="25px" style="filter: brightness(0) invert(1); border: 1px solid black" src="https://github.com/MatijaOsojnik/MatijaOsojnik/blob/master/instagram.svg" />
 </a>
 
 <br />
