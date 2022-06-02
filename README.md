@@ -14,7 +14,7 @@
 <br />
 
 
-My name's Matija Osojnik and I'm a Web Developer/Designer. I'm from Slovenia, living in Velenje and I'm currently working on a bunch of different projects.
+My name's Matija Osojnik and I'm a Full-stack developer working primarily in ReactJS / RubyOnRails. I'm from Slovenia, living in Maribor and I'm currently working on a bunch of different projects.
 
 ## 💻 Technologies
 
