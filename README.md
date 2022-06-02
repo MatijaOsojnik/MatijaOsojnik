@@ -23,6 +23,7 @@ My name's Matija Osojnik and I'm a Web Developer/Designer. I'm from Slovenia, li
 ![](https://img.shields.io/badge/Dart-informational?style=flat&logo=Dart&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VueJS-informational?style=flat&logo=Vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Rails-informational?style=flat&logo=Ruby-on-Rails&logoColor=white&color=2bbc8a)
